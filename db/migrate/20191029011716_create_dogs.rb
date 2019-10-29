@@ -1,8 +1,8 @@
 class CreateDogs < ActiveRecord::Migration[5.2]
-  def up 
+  def up
   end
 
-  def down 
+  def down
   end
 
   def change
